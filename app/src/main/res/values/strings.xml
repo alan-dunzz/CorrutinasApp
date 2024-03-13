@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CorrutinasApp</string>
+    <string name="cambio_de_color">Cambio de color</string>
+    <string name="respuesta_del_servidor_o_api">Respuesta del servidor o API</string>
+    <string name="realizar_consulta">Realizar consulta</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
